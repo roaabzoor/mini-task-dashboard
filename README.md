@@ -47,7 +47,7 @@ Deployment
 
 Live Application:
 
-mini-task-dashboard-l2pnnziem-roaa7.vercel.app
+mini-task-dashboard-kappa.vercel.app
 Next.js Concepts Demonstrated
 App Router
 File-based Routing

@@ -30,7 +30,7 @@ The application allows users to view tasks, search and filter tasks, open task d
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/roaabzoor/mini-task-dashboard
 
 cd mini-task-dashboard
 npm install
@@ -47,7 +47,7 @@ Deployment
 
 Live Application:
 
-YOUR_VERCEL_URL
+mini-task-dashboard-l2pnnziem-roaa7.vercel.app
 Next.js Concepts Demonstrated
 App Router
 File-based Routing
